@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 ## Math
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
