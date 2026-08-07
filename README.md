@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
