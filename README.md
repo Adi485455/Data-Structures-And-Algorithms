@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0213-house-robber-ii) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
