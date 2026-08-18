@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0066-plus-one) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [1143-longest-common-subsequence](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
