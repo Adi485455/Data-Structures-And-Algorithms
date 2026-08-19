@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0213-house-robber-ii) |
