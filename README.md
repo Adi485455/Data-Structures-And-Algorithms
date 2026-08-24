@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
