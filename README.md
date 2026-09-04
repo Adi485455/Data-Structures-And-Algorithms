@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
