@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
+| [0940-distinct-subsequences-ii](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
