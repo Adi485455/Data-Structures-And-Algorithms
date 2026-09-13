@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Longest Common Subsequence
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
