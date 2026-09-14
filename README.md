@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0322-coin-change) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
