@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0940-distinct-subsequences-ii](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
