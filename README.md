@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Combinatorics
 |  |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Adi485455/Data-Structures-And-Algorithms/tree/master/3903-smallest-stable-index-i) |
 ## Tree
 |  |
