@@ -1,33 +1,42 @@
-    class Solution {
-    public:
-        vector<vector<string>> groupAnagrams(vector<string>& strs) {
-            unordered_map<string,vector<string>>mp;
-            int n = strs.size();
-            vector<vector<string>>ans;
-           
+class Solution {
+public:
+    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        unordered_map<string,vector<string>>mp;
+        int n = strs.size();
+       
+        for(int i =0;i<n;i++){
+            vector<int>freq(26,0);
+            for(char c :strs[i]){
+                freq[c-'a']++;
+            }
+            // Converting the frequency vector into the key
 
-            for(int i=0;i<n;i++){
-                vector<int>freq(26,0);
-                 string key = "";
+            // First we define the string key
 
-                // Calculating the freq of each str
-                for(char c : strs[i]){
-                    freq[c-'a']++;
-                }
-                // As we can't directly store the vector array as the key in the map 
-                // so need to convert the vector freq into the string then stored in the hashmap as key
-                // freq = [1,0,0,0,1,0,...,1]  ->  key = "1#0#0#0#1#0#0#...#1#"
-                for (int a:freq){
-                    key+=to_string(a)+"#";
-                }
-                mp[key].push_back(strs[i]);
+            string key = "";
+
+            // Now iterate throgh the vector and convert the element of the frequency vector into the string and add it to the string key with the addition of the '#'
+
+            // So key be like '1#0#0#1#0#.....'
+
+            for(int j =0;j<26;j++){
+                key+=to_string(freq[j])+'#';
             }
 
-            for(auto it :mp){
+            // then in the map we gonna push the that strings 
+            // Imp point here if the both strings have the same key they strings gonna push at that same position so we gonna have the strings with the same keys at the same position
+
+            mp[key].push_back(strs[i]);
+            }
+             vector<vector<string>>ans;
+
+            // iterating the map and priting all the strings grp wise 
+            // As the map gonna store it as the grp wise 
+
+            for(auto &it :mp){
                 ans.push_back(it.second);
-            }
-
-            return ans;
-
         }
-    };
+         return ans;
+        
+    }
+};
